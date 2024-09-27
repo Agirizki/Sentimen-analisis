@@ -1,1 +1,4 @@
-Project ini saya buat untuk menyelesaikan skripsi saya, project ini adalah sentimen analisis pengguna twitter terhadap tiktok shop menggunakan algoritma svm dan naive bayes serta menggunakan 2 algoritma steming yaitu algoritma steming nazief & adriani dan algortima steming arifin setiono
+welcome to my project
+this project use 1000 data tweets
+use 2 algorithm : SVM and Naive bayes
+use 2 algorithm stemming : Nazief & Adriani algorithm and Arifin Setiono ALgorothm
